@@ -1,8 +1,9 @@
 import platform
-import psutil
 import shutil
 import time
 from datetime import timedelta
+
+import psutil
 
 
 def bytes_to_gb(value):
